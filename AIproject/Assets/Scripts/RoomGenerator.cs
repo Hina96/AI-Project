@@ -65,7 +65,7 @@ public class RoomGenerator
         catch (Exception e)
         {
             Debug.LogException(e);
-            Debug.Log("WARNING: Change the parameters and try again.");
+            
         }
 
         if (count != 0)

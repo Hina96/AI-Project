@@ -319,8 +319,6 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/BinarySpacePartitioner.cs"
-"Assets/Scripts/DoorCreator.cs"
-"Assets/Scripts/DoorsGenerator.cs"
 "Assets/Scripts/HomeCreator.cs"
 "Assets/Scripts/HomeGenerator.cs"
 "Assets/Scripts/Line.cs"

@@ -998,7 +998,7 @@ public class HomeCreator : MonoBehaviour
             }
 
 
-        if (windows > 0) Debug.Log("It was not possible to insert " + windows + " due to lack of space. \n");
+        if (windows > 0) Debug.Log("It was not possible to insert " + windows + " windows due to lack of space. \n");
 
     }
 
